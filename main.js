@@ -13,6 +13,7 @@ const corsOptions = {
   origin: [
     "https://frontend-facehook-1.onrender.com",
     "https://frontend-facehook.vercel.app",
+    "http://localhost:5173",
   ], // Your frontend origin
   methods: ["GET", "POST", "PATCH", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"],

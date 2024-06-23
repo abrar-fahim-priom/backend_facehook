@@ -700,6 +700,22 @@
       "avatar": "uploads/avatar/avatar-1719040841193-437125330.png",
       "email": "priomshads@gmail.com",
       "bio": "DFGG"
+    },
+    {
+      "id": "698c4207-9443-4b90-b12c-520f33b99a18",
+      "password": "$2a$08$3e90cG7YAhfNer1oyp5ToeDGkqlTwPdACdGi91ZdWS7hxFmFT/L.O",
+      "firstName": "KHONDOKAR",
+      "lastName": "mulu",
+      "avatar": null,
+      "email": "khondokar@gmail.com"
+    },
+    {
+      "id": "f5833817-cf76-4703-b0cf-ef5df36505e0",
+      "password": "$2a$08$rvHrUXFGsibRIN9gRWjZHuYECes7E0YZxZA7Mvd2RKKEM6u/po3LC",
+      "firstName": "ANISHA",
+      "lastName": "KHAN",
+      "avatar": null,
+      "email": "anisha@mail.com"
     }
   ]
 }

@@ -10,7 +10,10 @@ const router = jsonServer.router("./database/db.json");
 
 // CORS configuration
 const corsOptions = {
-  origin: "https://frontend-facehook-1.onrender.com", // Your frontend origin
+  origin: [
+    "https://frontend-facehook-1.onrender.com",
+    "https://frontend-facehook.vercel.app",
+  ], // Your frontend origin
   methods: ["GET", "POST", "PATCH", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"],
   credentials: true, // Allow cookies and other credentials

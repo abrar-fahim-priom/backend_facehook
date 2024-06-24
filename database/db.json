@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": "114d6b94-fc94-4d3c-ad86-720a18eaf437",
-      "content": "Part of our LWS Support Team ❤️",
+      "content": "Live set of Kygo Self titled album",
       "image": "uploads/posts/image-1708777029165-711540010.jpg",
       "postType": "image",
       "author": {
@@ -69,7 +69,7 @@
     },
     {
       "id": "fe48c0d2-6b86-4a18-a746-a4253a085421",
-      "content": "সেই ২০২০ সাল থেকে বিগিনার থেকে শুরু করে ইন্টারমিডিয়েট লেভেল পর্যন্ত ওয়েব ডেভেলপারদেরকে জাভাস্ক্রিপ্ট এবং রিয়্যাক্ট শিখাচ্ছি। এই ৩ বছর ধরে অর্জিত আমার অভিজ্ঞতা থেকে আমি বুঝতে পেরেছি, বর্তমান সময়ে ওয়েব ডেভেলপারদের মূল যে জায়গাটায় গ্যাপ রয়েছে সেটা হলো, রিয়্যাক্টিভ ওয়েব ডেভেলপমেন্টের মৌলিক বিষয় গুলো এবং জটিল কনসেপ্ট গুলো সম্পর্কে পরিপূর্ণ ধারণার অভাব। সেই সাথে এই প্রতিযোগিতাপূর্ণ মার্কেটে সবচেয়ে বেশি যে টেকনোলজি গুলোর চাহিদা রয়েছে তার মধ্যে রিয়্যাক্ট এবং নেক্সট জে.এস একেবারে উপরের দিকে। দুটি টেকনোলজিই খুব দ্রুত আপডেট হয়েছে এবং সেটার সাথে তাল মিলাতে গিয়ে রীতিমত হিমসিম খেতে হচ্ছে ডেভেলপারদেরকে।",
+      "content": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?",
       "image": null,
       "postType": "text",
       "author": {
@@ -151,7 +151,7 @@
           "createdAt": "2024-02-24T12:36:38.047Z",
           "author": {
             "id": "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
-            "name": "Sumit Saha",
+            "name": "Kygo",
             "avatar": "uploads/avatar/avatar-1708777668890-622477379.png"
           }
         },
@@ -195,12 +195,12 @@
     },
     {
       "id": "d17793ec-977b-4052-9903-9e4e39e6bf0f",
-      "content": "The Three Musketeers don't often have the chance to capture moments together and spend time collectively. Finally, we've seized an opportunity and are on our way to Kishoreganj, enjoying some quality time together.",
+      "content": "The Live set of kygi releasing album",
       "image": "uploads/posts/image-1708777287639-896835049.jpg",
       "postType": "image",
       "author": {
         "id": "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
-        "name": "Sumit Saha",
+        "name": "Kygo",
         "avatar": "uploads/avatar/avatar-1708777668890-622477379.png"
       },
       "comments": [
@@ -316,20 +316,6 @@
       "createAt": "2024-02-24T12:31:17.794Z"
     },
     {
-      "id": "00ad2787-ec06-407c-9e5f-cd7acba20371",
-      "content": "While ESLint is designed to be run on the command line, it’s possible to use ESLint programmatically through the Node.js API. The purpose of the Node.js API is to allow plugin and tool authors to use the ESLint functionality directly, without going through the command line interface.\n\nNote: Use undocumented parts of the API at your own risk. Only those parts that are specifically mentioned in this document are approved for use and will remain stable and reliable. Anything left undocumented is unstable and may change or be removed at any point.",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T06:03:47.813Z"
-    },
-    {
       "id": "82e8e57d-e7b8-4cfb-ac70-ff6283f0e8bf",
       "content": "While ESLint is designed to be run on the command line, it’s possible to use ESLint programmatically through the Node.js API. The purpose of the Node.js API is to allow plugin and tool authors to use the ESLint functionality directly, without going through the command line interface.\n\nNote: Use undocumented parts of the API at your own risk. Only those parts that are specifically mentioned in this document are approved for use and will remain stable and reliable. Anything left undocumented is unstable and may change or be removed at any point.",
       "image": null,
@@ -344,78 +330,8 @@
       "createAt": "2024-02-25T06:25:58.990Z"
     },
     {
-      "id": "5360bba3-1c5e-4ca8-84b3-6af75932126c",
-      "content": "",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T06:27:12.076Z"
-    },
-    {
-      "id": "478c7100-6701-430e-bae2-2d6eebf4443f",
-      "content": "",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T06:29:42.901Z"
-    },
-    {
-      "id": "fabefae7-c26d-4c5b-b4e4-7c150c3cbfb4",
-      "content": "",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T06:35:20.401Z"
-    },
-    {
-      "id": "21c5d118-295f-4606-8147-e5a7570fa569",
-      "content": "I am good",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T06:36:33.889Z"
-    },
-    {
-      "id": "e8ef4c92-32b5-450a-a53a-8caef4032cb1",
-      "content": "cvbcvcv",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T06:49:49.663Z"
-    },
-    {
       "id": "c43c2a81-224c-456b-97c0-e46df3eb4f6d",
-      "content": "test",
+      "content": "Among all Super 8 teams, Afghanistan boasts the highest average opening batting partnership in the T20 World Cup 2024.",
       "image": null,
       "postType": "text",
       "author": {
@@ -443,7 +359,7 @@
     },
     {
       "id": "782bbca7-dea3-4705-92aa-f191635c141a",
-      "content": "123",
+      "content": " similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas",
       "image": null,
       "postType": "text",
       "author": {
@@ -470,7 +386,7 @@
     },
     {
       "id": "ae7a9d01-a4aa-46ad-b58a-f9c0e5ba1bf2",
-      "content": "456",
+      "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem",
       "image": null,
       "postType": "text",
       "author": {
@@ -483,22 +399,8 @@
       "createAt": "2024-02-25T07:01:10.425Z"
     },
     {
-      "id": "23be0512-6a10-4e71-b8cd-2ae47d9d7971",
-      "content": "SEII",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T07:02:51.676Z"
-    },
-    {
       "id": "e60c5172-ecb6-46b7-bd18-f66c8942a765",
-      "content": "SEII555",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
       "image": null,
       "postType": "text",
       "author": {
@@ -509,62 +411,6 @@
       "comments": [],
       "likes": [],
       "createAt": "2024-02-25T07:04:19.291Z"
-    },
-    {
-      "id": "024e0c2a-b9ac-443a-876d-7977c2c036fc",
-      "content": "last",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T07:16:53.349Z"
-    },
-    {
-      "id": "e12d1d02-8ad0-4848-ae13-f30f663d7a4a",
-      "content": "ASSD",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "1cb626e4-2ae5-4036-ba68-8e33592d3919",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1719040841193-437125330.png"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-06-23T06:03:09.478Z"
-    },
-    {
-      "id": "498f7db1-c9c4-455c-9725-d03923381478",
-      "content": "sssdsd",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "1cb626e4-2ae5-4036-ba68-8e33592d3919",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1719040841193-437125330.png"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-06-23T07:05:11.158Z"
-    },
-    {
-      "id": "ee1ab6d2-986e-40a7-afe9-883d8768ac09",
-      "content": "gello",
-      "image": "uploads/posts/image-1719126529456-540358714.jpg",
-      "postType": "image",
-      "author": {
-        "id": "1cb626e4-2ae5-4036-ba68-8e33592d3919",
-        "name": "Abrar Fahim",
-        "avatar": "uploads/avatar/avatar-1719040841193-437125330.png"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-06-23T07:08:49.461Z"
     },
     {
       "id": "df531c93-00de-490b-bf1a-ecc6f1db8086",
@@ -603,7 +449,7 @@
     },
     {
       "id": "90ab27d4-9bdb-4b7f-9b92-6ff3e1b72641",
-      "content": "hello im chester",
+      "content": "Chester Charles Bennington was an American singer and songwriter who was the lead vocalist of the rock band Linkin Park. He was also the lead vocalist of Grey Daze, Dead by Sunrise, and Stone Temple Pilots at various points.",
       "image": null,
       "postType": "text",
       "author": {
@@ -612,12 +458,14 @@
         "avatar": "uploads/avatar/avatar-1719040841193-437125330.png"
       },
       "comments": [],
-      "likes": [],
+      "likes": [
+        "91958b87-e951-4f1a-81a9-11be692b31e4"
+      ],
       "createAt": "2024-06-23T08:38:13.235Z"
     },
     {
       "id": "efef1ee1-fe52-4835-880f-d75054c78e59",
-      "content": "jgfccbvc",
+      "content": "On derby of Argentina vs Brazil at Laksam Govt College, Brazil team won 4-2 againts Argentina",
       "image": "uploads/posts/image-1719132772548-765461046.jpg",
       "postType": "image",
       "author": {
@@ -625,9 +473,123 @@
         "name": "Abrar Fahim",
         "avatar": "uploads/avatar/avatar-1719040841193-437125330.png"
       },
-      "comments": [],
-      "likes": [],
+      "comments": [
+        {
+          "id": "d4178348-aa60-4bee-ad4d-6badf795d197",
+          "comment": "Congratulations",
+          "createdAt": "2024-06-24T06:12:04.452Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "John Doe",
+            "avatar": "uploads/avatar/avatar-1718824143793-587267377.jpg"
+          }
+        },
+        {
+          "id": "d288b996-f4dc-439f-b55f-02c58c57397e",
+          "comment": "Nice match",
+          "createdAt": "2024-06-24T06:32:09.274Z",
+          "author": {
+            "id": "69632510-1b50-4225-94a7-3ac589b5cde9",
+            "name": "Enan Efaz",
+            "avatar": null
+          }
+        },
+        {
+          "id": "556d988e-b236-4782-8524-98c9e0e465e6",
+          "comment": "Great",
+          "createdAt": "2024-06-24T07:02:05.216Z",
+          "author": {
+            "id": "91958b87-e951-4f1a-81a9-11be692b31e4",
+            "name": "Sample Admin",
+            "avatar": "uploads/avatar/avatar-1719212458949-759146047.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "68565310-ccc1-4583-b49c-08e8e7404430",
+        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "69632510-1b50-4225-94a7-3ac589b5cde9",
+        "91958b87-e951-4f1a-81a9-11be692b31e4"
+      ],
       "createAt": "2024-06-23T08:52:52.568Z"
+    },
+    {
+      "id": "e429dcf1-1764-408c-98cd-07487641849f",
+      "content": "Hello Facehook",
+      "image": "uploads/posts/image-1719210777097-210833363.jpeg",
+      "postType": "image",
+      "author": {
+        "id": "69632510-1b50-4225-94a7-3ac589b5cde9",
+        "name": "Enan Efaz",
+        "avatar": "uploads/avatar/avatar-1719210746157-823650304.jpg"
+      },
+      "comments": [
+        {
+          "id": "72288ccc-49a5-4cb1-9883-24e0ba5c8909",
+          "comment": "Hello enan",
+          "createdAt": "2024-06-24T06:34:43.650Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "John Doe",
+            "avatar": "uploads/avatar/avatar-1718824143793-587267377.jpg"
+          }
+        },
+        {
+          "id": "c11df1c0-ad3b-47c1-9499-da23102088b5",
+          "comment": "welcome",
+          "createdAt": "2024-06-24T07:07:07.416Z",
+          "author": {
+            "id": "5c18ea67-a572-462e-8df4-595d007b0b54",
+            "name": "Admin Demo",
+            "avatar": "uploads/avatar/avatar-1719212785916-531896086.jpg"
+          }
+        },
+        {
+          "id": "c9ea9482-ddf3-42b6-92b9-7de940aa0289",
+          "comment": "welcome",
+          "createdAt": "2024-06-24T07:08:07.156Z",
+          "author": {
+            "id": "68565310-ccc1-4583-b49c-08e8e7404430",
+            "name": "admin ",
+            "avatar": "uploads/avatar/avatar-1719205671844-128334762.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "69632510-1b50-4225-94a7-3ac589b5cde9",
+        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "91958b87-e951-4f1a-81a9-11be692b31e4",
+        "68565310-ccc1-4583-b49c-08e8e7404430",
+        "5c18ea67-a572-462e-8df4-595d007b0b54"
+      ],
+      "createAt": "2024-06-24T06:32:57.106Z"
+    },
+    {
+      "id": "f2bb3d37-f15f-43a2-9870-5fa7f019fd5c",
+      "content": "updated post",
+      "image": "uploads/posts/image-1719212814071-100558101.jpg",
+      "postType": "image",
+      "author": {
+        "id": "5c18ea67-a572-462e-8df4-595d007b0b54",
+        "name": "Admin Demo",
+        "avatar": "uploads/avatar/avatar-1719212785916-531896086.jpg"
+      },
+      "comments": [
+        {
+          "id": "d82d8170-53e9-4133-a2e5-c085d18020db",
+          "comment": "great",
+          "createdAt": "2024-06-24T07:08:16.076Z",
+          "author": {
+            "id": "68565310-ccc1-4583-b49c-08e8e7404430",
+            "name": "admin ",
+            "avatar": "uploads/avatar/avatar-1719205671844-128334762.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "68565310-ccc1-4583-b49c-08e8e7404430"
+      ],
+      "createAt": "2024-06-24T07:06:54.075Z"
     }
   ],
   "comments": [],
@@ -635,11 +597,11 @@
     {
       "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
       "password": "$2b$08$t5Aar/0hgHTMdCeLtn3KhOlWDVIAHcFUTkRPeWASPhbYAea5kxKvW",
-      "firstName": "Abrar",
-      "lastName": "Fahim",
+      "firstName": "John",
+      "lastName": "Doe",
       "avatar": "uploads/avatar/avatar-1718824143793-587267377.jpg",
       "email": "saadh392@mail.com",
-      "bio": "hello im sadddsdfdfhh"
+      "bio": "A front end developer with graphic design knowledge backing up "
     },
     {
       "id": "6fd3ed42-2275-8uyt-a436-e5a3bf586c56",
@@ -653,10 +615,10 @@
     {
       "id": "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
       "password": "$2b$08$Ppzu84hycImxTC6C7jAuGOs6fNBf4z7RJ7nqNldd/Lcj5JQaegmBK",
-      "firstName": "Sumit",
-      "lastName": "Saha",
+      "firstName": "Kygo",
+      "lastName": "",
       "avatar": "uploads/avatar/avatar-1708777668890-622477379.png",
-      "email": "sumitsaha@learnwithsumit.com"
+      "email": "kygo@edm.com"
     },
     {
       "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
@@ -702,20 +664,40 @@
       "bio": "DFGG"
     },
     {
-      "id": "698c4207-9443-4b90-b12c-520f33b99a18",
-      "password": "$2a$08$3e90cG7YAhfNer1oyp5ToeDGkqlTwPdACdGi91ZdWS7hxFmFT/L.O",
-      "firstName": "KHONDOKAR",
-      "lastName": "mulu",
-      "avatar": null,
-      "email": "khondokar@gmail.com"
+      "id": "68565310-ccc1-4583-b49c-08e8e7404430",
+      "password": "$2a$08$FPfmg72izE9uwBGVKHD5COLgVQLtWPw/AO60rLNMRxVd5v7Nr1ymy",
+      "firstName": "admin",
+      "lastName": "",
+      "avatar": "uploads/avatar/avatar-1719205671844-128334762.jpg",
+      "email": "admin@email.com",
+      "bio": "The site is built on mock backend api server upon render, that's why you can't perform auth based database operations, once connected to database, the controllers will handle all operations\n"
     },
     {
-      "id": "f5833817-cf76-4703-b0cf-ef5df36505e0",
-      "password": "$2a$08$rvHrUXFGsibRIN9gRWjZHuYECes7E0YZxZA7Mvd2RKKEM6u/po3LC",
-      "firstName": "ANISHA",
-      "lastName": "KHAN",
-      "avatar": null,
-      "email": "anisha@mail.com"
+      "id": "69632510-1b50-4225-94a7-3ac589b5cde9",
+      "password": "$2a$08$90VGb6zNq7SOA0/XR7kXEeTnaMW5mgzhUc/Zq5NsWRJpbQyODJ5x6",
+      "firstName": "Enan",
+      "lastName": "Efaz",
+      "avatar": "uploads/avatar/avatar-1719210746157-823650304.jpg",
+      "email": "enan@mail.com",
+      "bio": "I am enan"
+    },
+    {
+      "id": "91958b87-e951-4f1a-81a9-11be692b31e4",
+      "password": "$2a$08$xUpQcc04dYG1WKtjT6L0luVq3JNCe7.hLQxeSEj7CNWJ2KAfNI0QK",
+      "firstName": "Sample",
+      "lastName": "Admin",
+      "avatar": "uploads/avatar/avatar-1719212458949-759146047.jpg",
+      "email": "sample@gmail.com",
+      "bio": "This is a sample text\n"
+    },
+    {
+      "id": "5c18ea67-a572-462e-8df4-595d007b0b54",
+      "password": "$2a$08$My6n81LXN5H97mBljFkVQuNyDEfx39fhRi0YbwR6sXpxJmeUW7qzy",
+      "firstName": "Admin",
+      "lastName": "Demo",
+      "avatar": "uploads/avatar/avatar-1719212785916-531896086.jpg",
+      "email": "admindemo@gmail.com",
+      "bio": "This is a sample bio"
     }
   ]
 }
